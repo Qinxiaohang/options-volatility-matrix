@@ -16,6 +16,8 @@ options-volatility-matrix 项目文档
 
 ---
 ### 项目目录结构
+
+```text
 options-volatility-matrix/
 ├── data/                  # 数据目录
 │   └── 存放历史K线、期权T型报价、隐含波动率IV、行情基础数据
