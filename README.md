@@ -1,6 +1,3 @@
-# options-volatility-matrix
-底部双卖降本、突破时远近月长短结合保护、顶部利用期权替代做空
-
 options-volatility-matrix 项目文档
 ## options-volatility-matrix
 基于波动率与市场状态识别的期权矩阵交易系统 | 量化回测 + 实盘交易一体化框架
